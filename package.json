@@ -1,0 +1,9 @@
+{
+  "name": "botafk",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "module",
+  "dependencies": {
+    "bedrock-protocol": "latest"
+  }
+}
